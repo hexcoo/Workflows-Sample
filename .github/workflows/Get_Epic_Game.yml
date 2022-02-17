@@ -3,7 +3,7 @@ name: Get Epic Game
 on:
   workflow_dispatch:
   schedule: # 删除本行开头的 # 号
-    - cron: "27 2 * * *" # 删除本行开头的 # 号
+    #  - cron: "27 2 * * *" # 删除本行开头的 # 号
   
 
 jobs:
